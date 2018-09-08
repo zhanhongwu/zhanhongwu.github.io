@@ -1,6 +1,10 @@
 {
-  "main.css": "static/css/main.28e135e6.css",
-  "main.css.map": "static/css/main.28e135e6.css.map",
-  "main.js": "static/js/main.513eda8c.js",
-  "main.js.map": "static/js/main.513eda8c.js.map"
+  "main.css": "static/css/main.ecc9c76b.css",
+  "main.css.map": "static/css/main.ecc9c76b.css.map",
+  "main.js": "static/js/main.bb5117ca.js",
+  "main.js.map": "static/js/main.bb5117ca.js.map",
+  "static/media/Loading-Dots.svg": "static/media/Loading-Dots.f232807e.svg",
+  "static/media/Spinner-1s-200px.svg": "static/media/Spinner-1s-200px.91a123b7.svg",
+  "static/media/basic_elaboration_cloud_refresh.svg": "static/media/basic_elaboration_cloud_refresh.57d9f885.svg",
+  "static/media/basic_gear.svg": "static/media/basic_gear.4b9eca9d.svg"
 }
